@@ -1,6 +1,4 @@
 ﻿
-
-
 namespace Arv
 {
     public class Animal
